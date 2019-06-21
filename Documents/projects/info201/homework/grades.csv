@@ -1,0 +1,6 @@
+"first_names","math_grades","spanish_grades","grade_diff","better_at_math"
+"Titus",100,90,10,TRUE
+"Quinton",65,100,-35,FALSE
+"Wilder",80,70,10,TRUE
+"Zander",90,95,-5,FALSE
+"Zeke",70,75,-5,FALSE
